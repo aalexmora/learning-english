@@ -90,6 +90,7 @@ Global list of resources for learning English across the web
 
 
 #### <a name='listening'>Listening</a>
+- [Learnathome](https://learnathome.ru/lessons)
 - [Puzzle-english](http://puzzle-english.com/)
 - [EnglishClub - Dictation](https://www.englishclub.com/listening/dictation.htm)
 - [LISTENING & SPEAKING](http://www.rong-chang.com/listen.htm)
@@ -149,6 +150,7 @@ Global list of resources for learning English across the web
   - [Daily English](https://vk.com/angyaz)
   
 **Facebook**
+  - [Я изучаю английский онлайн](https://www.facebook.com/learnathome)
 
 **Twitter**
 - [MovieEnglish](https://twitter.com/search?q=%40movieEnglish&src=typd)
@@ -166,6 +168,7 @@ Global list of resources for learning English across the web
 - [Fun English Lessons](http://www.china232.com/category/fun-english-lessons)
 - [Correct English](http://www.correctenglish.ru/exercises/)
 - [I Love English](http://iloveenglish.ru/exercises)
+- [ColorLang](https://colorlang.com)
   
 #### <a name='radio'>TV/Radio</a>
 - [EnglishClub](https://www.englishclub.com/listening/radio.htm)
